@@ -5,10 +5,10 @@
 # Site
 title: 天上人间
 subtitle: '个人博客'
-description: '日志,心得,笔记,linux'
+description: '我的博客用于记录'
 keywords: 日志,心得,笔记,linux
 author: 小灰灰
-language: cn
+language: zh-Hans
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -93,11 +93,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repository: https://github.com/13850554413/13850554413.github.io.git
   branch: master
