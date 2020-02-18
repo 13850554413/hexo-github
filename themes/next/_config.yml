@@ -180,6 +180,7 @@ site_state: true
 # Usage: `Key: permalink || icon`
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
+# 开启友情链接
 social:
   GitHub: https://github.com/yourname || github
   #E-Mail: mailto:yourname@gmail.com || envelope
@@ -198,7 +199,6 @@ social_icons:
   transition: false
 
 # Blog rolls
-# 开启友情链接
 links_settings:
   icon: link
   title: 友情链接
@@ -208,8 +208,6 @@ links_settings:
 links:
   链接1: http://yoursite.com
   链接2: http://yoursite.com
-  链接3: http://yoursite.com
-  链接4: http://yoursite.com
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
