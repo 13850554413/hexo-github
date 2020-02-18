@@ -1,6 +1,5 @@
-## hexo-github
-## 博客的项目环境,hexo管理
-# 所用安装工具npm,所用包hexo-cli,hexo-deployer-git
+## hexo-github 博客的项目环境,hexo管理
+** 所用安装工具npm,所用包hexo-cli,hexo-deployer-git **
 主题: 原装主题,next
 
 ** 文件和目录说明 **
